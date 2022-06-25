@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&family=Roboto:wght@400;500&display=swap');
+.p1{
+    text-decoration: overline;
+}
+.p2{
+    text-align: center;
+    
+}
+.conteiner{ 
+    margin: 0 200px;
+}
+.obertka{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.link{
+    color: rgb(0, 0, 0);
+    text-decoration: dashed;
+    display: block;
+    margin-right: 30px;
+    font-size: 35px;
+}
+.link:last-child{
+    margin-right: 0;
+}
+body{
+    font-family: 'League Gothic', sans-serif;
+}
+.right_side{
+    display: flex;
+}
+p{
+    font-size: 35px;
+} 
+.papasha{
+    display: flex;
+    justify-content: center;
+}
+.obychnyy{
+    margin-right: 150px;
+}
+.rebenok{
+    text-align: center;
+}
